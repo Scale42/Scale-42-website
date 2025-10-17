@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Scale42* | Next-Generation Data Centres</title>
+    <meta
+      name="description"
+      content="Scale42 builds next-generation data centres powered by sustainable energy and accelerated computing hardware."
+    />
+    <link rel="icon" type="image/png" href="assets/images/scale42-logo-small.png" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700;800&family=Montserrat:wght@400;500;600;700&display=swap"
+    />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="hero" id="top">
+      <img class="hero__bg" src="assets/images/hero-background.png" alt="" />
+      <div class="hero__overlay">
+        <div class="container hero__content">
+          <div class="hero__intro">
+            <img class="hero__logo" src="assets/images/scale42-logo.png" alt="Scale42*" />
+            <p class="hero__kicker">
+              NEXT-GENERATION DATA CENTRES,<br />
+              <span>POWERED BY SUSTAINABLE ENERGY.</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="equation">
+        <div class="container equation__layout">
+          <div class="equation__text">
+            <h2 class="equation__heading">
+              WE BUILD CLEAN, GREEN<br />
+              SUPERCOMPUTING<br />
+              MACHINES
+            </h2>
+            <p>
+              At Scale42* we build next-generation data centres&mdash;clean, green supercomputing machines&mdash;powered by 100%
+              sustainable energy.
+            </p>
+          </div>
+          <div class="equation__wrapper">
+            <article class="equation__item">
+              <img src="assets/images/hydropower-icon.png" alt="Hydropower icon" />
+              <h3>LOW-COST CLEAN ENERGY</h3>
+              <p>
+                We scour the globe for low-cost sources of clean energy&mdash;from stranded hydropower to solar, biogas or wind located
+                away from centres of demand or awaiting grid connection.
+              </p>
+            </article>
+            <div class="equation__operator" aria-hidden="true">+</div>
+            <article class="equation__item">
+              <img src="assets/images/gpu-icon.png" alt="GPU icon" />
+              <h3>ACCELERATED COMPUTING</h3>
+              <p>
+                We connect clean power to the latest accelerated computing hardware. We've specialised in ASIC-accelerated compute
+                since 2018, buying servers from world-leading fabrication partners by the thousand.
+              </p>
+            </article>
+            <div class="equation__operator" aria-hidden="true">=</div>
+            <article class="equation__item">
+              <img src="assets/images/server-icon.png" alt="Server rack icon" />
+              <h3>NEXT-GENERATION DATA CENTRES</h3>
+              <p>
+                Highly efficient, compute-intense data centres&mdash;sustainably powered, liquid-cooled and densely packed with
+                accelerated servers to meet the demands of the most specialised workloads such as generative AI training.
+              </p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="distributed">
+        <div class="container">
+          <div class="distributed__content">
+            <div class="distributed__icons">
+              <img src="assets/images/ship-icon.png" alt="Container ship" /> <img src="assets/images/truck-icon.png" alt="Truck" /> <img src="assets/images/dish-icon.png" alt="Satellite dish" />
+            </div>
+            <h2>DISTRIBUTED<br /><span>0.5 - 10&nbsp;MW</span></h2>
+            <p>
+              Modular, containerised solutions that move through global logistics networks and can be redeployed as demand
+              shifts.
+            </p>
+            <p>
+              Ideal for rapidly scaling or rightsizing compute footprints while keeping utilisation and energy efficiency high.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="centralised">
+        <div class="container">
+          <div class="centralised__content">
+            <div class="centralised__icons">
+              <img src="assets/images/mountains-icon.png" alt="Mountains" />
+              <img src="assets/images/wind-turbine-icon.png" alt="Wind turbine" />
+              <img src="assets/images/hydropower-icon-small.png" alt="Hydropower" />
+            </div>
+            <h2>CENTRALISED<br /><span>10 - 100&nbsp;MW+</span></h2>
+            <p>
+              Hyperscale developments like our 60MW facility in Norway, fully powered by renewable hydropower near the source.
+            </p>
+            <p>
+              Located alongside generation to unlock stranded energy and scale to hundreds of megawatts or more.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="nextgen-banner">
+        <div class="container nextgen-banner__inner">
+          <h2>DATA CENTRES:<br />THE NEXT GENERATION</h2>
+        </div>
+      </section>
+
+      <section class="legacy" id="legacy">
+        <div class="legacy__overlay">
+          <div class="container legacy__content">
+            <div class="legacy__card">
+              <h2>LEGACY<br />DATA CENTRES</h2>
+              <h3>HIGH OPEX &amp; CAPEX</h3>
+              <img src="assets/images/legacy-data-centre-icon-set.png" alt="Legacy data centre icon set" />
+              <p>
+                Legacy data centres – typically built to serve consumer facing software-as-a-service applications – lock-in high CAPEX
+                and OPEX through a focus on:
+              </p>
+              <ul>
+                <li>Low latency</li>
+                <li>High uptime</li>
+                <li>CPU-centric architectures</li>
+              </ul>
+              <p>This legacy infrastructure:</p>
+              <ul>
+                <li>Is typically located close to urban centres – locking in high land costs.</li>
+                <li>
+                  By association is often encumbered with high energy costs, in part due to reliance on power generated by fossil fuels.
+                </li>
+                <li>
+                  Is built with high levels of redundancy – in power and communications – with associated low levels of utilisation and
+                  high cost.
+                </li>
+              </ul>
+              <p>
+                All of the above contributes to data centres having a large physical footprint, further locking in both high CAPEX and
+                OPEX.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="people" id="team">
+        <div class="container">
+          <header class="section-header">
+            <h2>The founders</h2>
+          </header>
+          <div class="people__grid">
+            <article class="person-card">
+              <img src="assets/images/william-tasney.jpg" alt="Portrait of William Tasney" />
+              <div class="person-card__body">
+                <p class="person-card__role">CEO</p>
+                <h3>William Tasney</h3>
+                <ul>
+                  <li>7+ years in data centre development</li>
+                  <li>Business strategy &amp; energy market expertise</li>
+                  <li>Led team from start-up to 8-figure exit</li>
+                  <li>Commercial property background</li>
+                </ul>
+                <a class="person-card__link" href="https://www.linkedin.com/in/william-tasney-a9487a16a" target="_blank" rel="noopener noreferrer">
+                  <img src="assets/images/linkedin-icon.png" alt="LinkedIn" />
+                </a>
+              </div>
+            </article>
+            <article class="person-card">
+              <img src="assets/images/bendik-fostervoll.jpg" alt="Portrait of Bendik Fostervoll" />
+              <div class="person-card__body">
+                <p class="person-card__role">CDO</p>
+                <h3>Bendik Fostervoll</h3>
+                <ul>
+                  <li>5+ years in data centre development</li>
+                  <li>High-voltage power systems test &amp; integration</li>
+                  <li>15+ years electrical engineering experience</li>
+                </ul>
+                <a class="person-card__link" href="https://www.linkedin.com/in/bendik-fostervoll-5482aba5" target="_blank" rel="noopener noreferrer">
+                  <img src="assets/images/linkedin-icon.png" alt="LinkedIn" />
