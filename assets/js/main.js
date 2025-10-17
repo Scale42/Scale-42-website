@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         'Content-Type': 'application/json',
                     },
                     body: JSON.stringify({
-                        email: email,
+                        x9Jt4Qb7L2vFp0MzWcR1nKd8HsE3yUgT: email,
                         timestamp: new Date().toISOString(),
                         source: 'Scale42 Website Contact Form',
                         url: window.location.href,
