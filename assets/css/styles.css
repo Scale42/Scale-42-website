@@ -666,10 +666,25 @@ section {
   z-index: 1;
 }
 
+.nextgen-data-centres {
+  position: relative;
+  background: radial-gradient(circle at top right, rgba(111, 224, 255, 0.08), transparent 45%);
+}
+
 .nextgen-data-centres .container {
   position: relative;
   z-index: 2;
   text-align: center;
+}
+
+.nextgen-data-centres__card {
+  background: linear-gradient(160deg, rgba(7, 23, 49, 0.95) 0%, rgba(3, 9, 20, 0.92) 100%);
+  border: 1px solid rgba(111, 224, 255, 0.15);
+  border-radius: var(--radius-large);
+  padding: 56px clamp(24px, 5vw, 72px);
+  box-shadow: var(--shadow-soft);
+  max-width: 920px;
+  margin: 0 auto;
 }
 
 .nextgen-data-centres__icons img {
