@@ -480,7 +480,7 @@ section {
   align-items: center;
   justify-content: center;
   color: #fff;
-  background-image: url('https://static.wixstatic.com/media/02157e_9eb1038746494d8fbfffb30302fac773~mv2.png/v1/fill/w_1716,h_821,al_t,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/02157e_9eb1038746494d8fbfffb30302fac773~mv2.png');
+  background-image: url('../images/distributed-bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -534,7 +534,7 @@ section {
   align-items: center;
   justify-content: center;
   color: #fff;
-  background-image: url('https://static.wixstatic.com/media/02157e_19a04db890ac4e42a5ff7ba31e98a535~mv2.jpg/v1/fill/w_1716,h_735,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/02157e_19a04db890ac4e42a5ff7ba31e98a535~mv2.jpg');
+  background-image: url('../images/centralised-bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -602,7 +602,7 @@ section {
   align-items: center;
   justify-content: center;
   color: #fff;
-  background-image: url('https://static.wixstatic.com/media/02157e_5342c35365b64f959793a8ca8fbf4a56~mv2.jpg/v1/fill/w_1204,h_876,al_c,q_100,usm_0.66_1.00_0.01,enc_avif,quality_auto/02157e_5342c35365b64f959793a8ca8fbf4a56~mv2.jpg');
+  background-image: url('../images/legacy-bg.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -664,11 +664,6 @@ section {
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   z-index: 1;
-}
-
-.nextgen-data-centres {
-  position: relative;
-  background: radial-gradient(circle at top right, rgba(111, 224, 255, 0.08), transparent 45%);
 }
 
 .nextgen-data-centres .container {
